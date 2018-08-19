@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="64.978645">
+<testcase classname="Access ebay" name="Print title, url" time="18.456539">
+<system-out><![CDATA[When I open ebay website....................................................passed
+Then I validate title and URL...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Access ebay" name="User will login" time="33.943881">
+<system-out><![CDATA[When I check my link........................................................passed
+When I click My eBay........................................................passed
+Then I enter username and password..........................................passed
+Then I will uncheck Stay signed in..........................................passed
+Then I will click on Sign in button.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Access seleniumframework.com website" name="User will logout from eBay" time="12.578225">
+<system-out><![CDATA[When I will click Hi Username dropdown......................................passed
+Then I click to be deleted..................................................passed
+Then I click logout link....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

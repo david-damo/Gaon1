@@ -1,0 +1,247 @@
+[
+  {
+    "id": "access-ebay",
+    "description": "Use selenium java with cucumber-jvm and navigate to website",
+    "name": "Access ebay",
+    "keyword": "Feature",
+    "line": 1,
+    "elements": [
+      {
+        "after": [
+          {
+            "result": {
+              "duration": 606585,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.embedScreenShotsAndCloseBrowser(Scenario)"
+            }
+          }
+        ],
+        "id": "access-ebay;print-title,-url",
+        "before": [
+          {
+            "result": {
+              "duration": 14581815075,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.browserLauncher()"
+            }
+          }
+        ],
+        "description": "",
+        "name": "Print title, url",
+        "keyword": "Scenario",
+        "line": 3,
+        "steps": [
+          {
+            "result": {
+              "duration": 3874079730,
+              "status": "passed"
+            },
+            "name": "I open ebay website",
+            "keyword": "When ",
+            "line": 4,
+            "match": {
+              "location": "ProjectStepDefs.i_open_seleniumframework_website()"
+            }
+          },
+          {
+            "result": {
+              "duration": 37976,
+              "status": "passed"
+            },
+            "name": "I validate title and URL",
+            "keyword": "Then ",
+            "line": 5,
+            "match": {
+              "location": "ProjectStepDefs.i_print_title_and_URL()"
+            },
+            "output": [
+              "Scenario is Passed"
+            ]
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "after": [
+          {
+            "result": {
+              "duration": 326899,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.embedScreenShotsAndCloseBrowser(Scenario)"
+            }
+          }
+        ],
+        "id": "access-ebay;user-will-login",
+        "before": [
+          {
+            "result": {
+              "duration": 72359,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.browserLauncher()"
+            }
+          }
+        ],
+        "description": "",
+        "name": "User will login",
+        "keyword": "Scenario",
+        "line": 6,
+        "steps": [
+          {
+            "result": {
+              "duration": 2635971003,
+              "status": "passed"
+            },
+            "name": "I check my link",
+            "keyword": "When ",
+            "line": 7,
+            "match": {
+              "location": "ProjectStepDefs.checkMyLink()"
+            }
+          },
+          {
+            "result": {
+              "duration": 21320783900,
+              "status": "passed"
+            },
+            "name": "I click My eBay",
+            "keyword": "When ",
+            "line": 8,
+            "match": {
+              "location": "ProjectStepDefs.clickMyEbayLink()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1718092450,
+              "status": "passed"
+            },
+            "name": "I enter username and password",
+            "keyword": "Then ",
+            "line": 9,
+            "match": {
+              "location": "ProjectStepDefs.loginAtEbay()"
+            }
+          },
+          {
+            "result": {
+              "duration": 3358453240,
+              "status": "passed"
+            },
+            "name": "I will uncheck Stay signed in",
+            "keyword": "Then ",
+            "line": 10,
+            "match": {
+              "location": "ProjectStepDefs.loginAtEbayUncheck()"
+            }
+          },
+          {
+            "result": {
+              "duration": 4910180775,
+              "status": "passed"
+            },
+            "name": "I will click on Sign in button",
+            "keyword": "Then ",
+            "line": 11,
+            "match": {
+              "location": "ProjectStepDefs.loginAtEbaySubmit()"
+            },
+            "output": [
+              "Scenario is Passed"
+            ]
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "uri": "1-Page-Title.feature"
+  },
+  {
+    "id": "access-seleniumframework.com-website",
+    "description": "Use selenium java with cucumber-jvm and navigate to website",
+    "name": "Access seleniumframework.com website",
+    "keyword": "Feature",
+    "line": 1,
+    "elements": [
+      {
+        "after": [
+          {
+            "result": {
+              "duration": 346913,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.embedScreenShotsAndCloseBrowser(Scenario)"
+            }
+          }
+        ],
+        "id": "access-seleniumframework.com-website;user-will-logout-from-ebay",
+        "before": [
+          {
+            "result": {
+              "duration": 61582,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.browserLauncher()"
+            }
+          }
+        ],
+        "description": "",
+        "name": "User will logout from eBay",
+        "keyword": "Scenario",
+        "line": 4,
+        "steps": [
+          {
+            "result": {
+              "duration": 2321570614,
+              "status": "passed"
+            },
+            "name": "I will click Hi Username dropdown",
+            "keyword": "When ",
+            "line": 5,
+            "match": {
+              "location": "ProjectStepDefs.userProfLink()"
+            }
+          },
+          {
+            "result": {
+              "duration": 5008869381,
+              "status": "passed"
+            },
+            "name": "I click to be deleted",
+            "keyword": "Then ",
+            "line": 6,
+            "match": {
+              "location": "ProjectStepDefs.toBeDeleted()"
+            }
+          },
+          {
+            "result": {
+              "duration": 5247376854,
+              "status": "passed"
+            },
+            "name": "I click logout link",
+            "keyword": "Then ",
+            "line": 7,
+            "match": {
+              "location": "ProjectStepDefs.userLogoutLink()"
+            },
+            "output": [
+              "Scenario is Passed"
+            ]
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "uri": "2-eBayLogout.feature"
+  }
+]
