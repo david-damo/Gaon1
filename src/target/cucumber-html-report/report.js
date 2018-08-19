@@ -7,7 +7,7 @@ formatter.feature({
   "line": 1
 });
 formatter.before({
-  "duration": 14581815075,
+  "duration": 111418671938,
   "status": "passed"
 });
 formatter.scenario({
@@ -32,23 +32,23 @@ formatter.match({
   "location": "ProjectStepDefs.i_open_seleniumframework_website()"
 });
 formatter.result({
-  "duration": 3874079730,
+  "duration": 10866624688,
   "status": "passed"
 });
 formatter.match({
   "location": "ProjectStepDefs.i_print_title_and_URL()"
 });
 formatter.result({
-  "duration": 37976,
+  "duration": 49779,
   "status": "passed"
 });
 formatter.write("Scenario is Passed");
 formatter.after({
-  "duration": 606585,
+  "duration": 581952,
   "status": "passed"
 });
 formatter.before({
-  "duration": 72359,
+  "duration": 79543,
   "status": "passed"
 });
 formatter.scenario({
@@ -88,40 +88,40 @@ formatter.match({
   "location": "ProjectStepDefs.checkMyLink()"
 });
 formatter.result({
-  "duration": 2635971003,
+  "duration": 11816499317,
   "status": "passed"
 });
 formatter.match({
   "location": "ProjectStepDefs.clickMyEbayLink()"
 });
 formatter.result({
-  "duration": 21320783900,
+  "duration": 46818453013,
   "status": "passed"
 });
 formatter.match({
   "location": "ProjectStepDefs.loginAtEbay()"
 });
 formatter.result({
-  "duration": 1718092450,
+  "duration": 41467239279,
   "status": "passed"
 });
 formatter.match({
   "location": "ProjectStepDefs.loginAtEbayUncheck()"
 });
 formatter.result({
-  "duration": 3358453240,
+  "duration": 5651862811,
   "status": "passed"
 });
 formatter.match({
   "location": "ProjectStepDefs.loginAtEbaySubmit()"
 });
 formatter.result({
-  "duration": 4910180775,
+  "duration": 5647561292,
   "status": "passed"
 });
 formatter.write("Scenario is Passed");
 formatter.after({
-  "duration": 326899,
+  "duration": 781582,
   "status": "passed"
 });
 formatter.uri("2-eBayLogout.feature");
@@ -133,7 +133,7 @@ formatter.feature({
   "line": 1
 });
 formatter.before({
-  "duration": 61582,
+  "duration": 64661,
   "status": "passed"
 });
 formatter.scenario({
@@ -163,26 +163,26 @@ formatter.match({
   "location": "ProjectStepDefs.userProfLink()"
 });
 formatter.result({
-  "duration": 2321570614,
+  "duration": 4431292703,
   "status": "passed"
 });
 formatter.match({
   "location": "ProjectStepDefs.toBeDeleted()"
 });
 formatter.result({
-  "duration": 5008869381,
+  "duration": 5019666799,
   "status": "passed"
 });
 formatter.match({
   "location": "ProjectStepDefs.userLogoutLink()"
 });
 formatter.result({
-  "duration": 5247376854,
+  "duration": 13817475395,
   "status": "passed"
 });
 formatter.write("Scenario is Passed");
 formatter.after({
-  "duration": 346913,
+  "duration": 351018,
   "status": "passed"
 });
 });

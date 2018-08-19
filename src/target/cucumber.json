@@ -10,7 +10,7 @@
         "after": [
           {
             "result": {
-              "duration": 606585,
+              "duration": 581952,
               "status": "passed"
             },
             "match": {
@@ -22,7 +22,7 @@
         "before": [
           {
             "result": {
-              "duration": 14581815075,
+              "duration": 111418671938,
               "status": "passed"
             },
             "match": {
@@ -37,7 +37,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3874079730,
+              "duration": 10866624688,
               "status": "passed"
             },
             "name": "I open ebay website",
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 37976,
+              "duration": 49779,
               "status": "passed"
             },
             "name": "I validate title and URL",
@@ -69,7 +69,7 @@
         "after": [
           {
             "result": {
-              "duration": 326899,
+              "duration": 781582,
               "status": "passed"
             },
             "match": {
@@ -81,7 +81,7 @@
         "before": [
           {
             "result": {
-              "duration": 72359,
+              "duration": 79543,
               "status": "passed"
             },
             "match": {
@@ -96,7 +96,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2635971003,
+              "duration": 11816499317,
               "status": "passed"
             },
             "name": "I check my link",
@@ -108,7 +108,7 @@
           },
           {
             "result": {
-              "duration": 21320783900,
+              "duration": 46818453013,
               "status": "passed"
             },
             "name": "I click My eBay",
@@ -120,7 +120,7 @@
           },
           {
             "result": {
-              "duration": 1718092450,
+              "duration": 41467239279,
               "status": "passed"
             },
             "name": "I enter username and password",
@@ -132,7 +132,7 @@
           },
           {
             "result": {
-              "duration": 3358453240,
+              "duration": 5651862811,
               "status": "passed"
             },
             "name": "I will uncheck Stay signed in",
@@ -144,7 +144,7 @@
           },
           {
             "result": {
-              "duration": 4910180775,
+              "duration": 5647561292,
               "status": "passed"
             },
             "name": "I will click on Sign in button",
@@ -174,7 +174,7 @@
         "after": [
           {
             "result": {
-              "duration": 346913,
+              "duration": 351018,
               "status": "passed"
             },
             "match": {
@@ -186,7 +186,7 @@
         "before": [
           {
             "result": {
-              "duration": 61582,
+              "duration": 64661,
               "status": "passed"
             },
             "match": {
@@ -201,7 +201,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2321570614,
+              "duration": 4431292703,
               "status": "passed"
             },
             "name": "I will click Hi Username dropdown",
@@ -213,7 +213,7 @@
           },
           {
             "result": {
-              "duration": 5008869381,
+              "duration": 5019666799,
               "status": "passed"
             },
             "name": "I click to be deleted",
@@ -225,7 +225,7 @@
           },
           {
             "result": {
-              "duration": 5247376854,
+              "duration": 13817475395,
               "status": "passed"
             },
             "name": "I click logout link",
