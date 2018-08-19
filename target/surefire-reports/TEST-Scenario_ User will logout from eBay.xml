@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Scenario: User will logout from eBay" time="0.069" tests="13" errors="0" skipped="0" failures="0">
+<testsuite name="Scenario: User will logout from eBay" time="0.031" tests="13" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_79\jre\bin"/>
@@ -60,17 +60,17 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="When I open ebay website" classname="Scenario: Print title, url" time="0.016"/>
+  <testcase name="When I open ebay website" classname="Scenario: Print title, url" time="0.005"/>
   <testcase name="Then I validate title and URL" classname="Scenario: Print title, url" time="0"/>
-  <testcase name="Scenario: Print title, url" classname="Scenario: Print title, url" time="0.036"/>
+  <testcase name="Scenario: Print title, url" classname="Scenario: Print title, url" time="0.008"/>
   <testcase name="When I check my link" classname="Scenario: User will login" time="0"/>
-  <testcase name="When I click My eBay" classname="Scenario: User will login" time="0"/>
+  <testcase name="When I click My eBay" classname="Scenario: User will login" time="0.001"/>
   <testcase name="Then I enter username and password" classname="Scenario: User will login" time="0"/>
   <testcase name="Then I will uncheck Stay signed in" classname="Scenario: User will login" time="0"/>
   <testcase name="Then I will click on Sign in button" classname="Scenario: User will login" time="0"/>
-  <testcase name="Scenario: User will login" classname="Scenario: User will login" time="0.013"/>
+  <testcase name="Scenario: User will login" classname="Scenario: User will login" time="0.014"/>
   <testcase name="When I will click Hi Username dropdown" classname="Scenario: User will logout from eBay" time="0"/>
-  <testcase name="Then I click to be deleted" classname="Scenario: User will logout from eBay" time="0"/>
+  <testcase name="Then I click to be deleted" classname="Scenario: User will logout from eBay" time="0.001"/>
   <testcase name="Then I click logout link" classname="Scenario: User will logout from eBay" time="0"/>
-  <testcase name="Scenario: User will logout from eBay" classname="Scenario: User will logout from eBay" time="0.004"/>
+  <testcase name="Scenario: User will logout from eBay" classname="Scenario: User will logout from eBay" time="0.002"/>
 </testsuite>

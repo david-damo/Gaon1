@@ -22,9 +22,9 @@ public class homePageSignIn {
         //HomePageEbay.userId.sendKeys("sanjeev.jha77@gmail.com");
 
         JavascriptExecutor myExecutor = ((JavascriptExecutor) driver);
-        myExecutor.executeScript("arguments[0].value='sanjeev.jha77@gmail.com';", HomePageEbay.userId);
+        myExecutor.executeScript("arguments[0].value='cgi.test.mail@gmail.com';", HomePageEbay.userId);
 
-        HomePageEbay.pass.sendKeys("Jpmc@123");
+        HomePageEbay.pass.sendKeys("MyNew@Pass1");
     }
     public static void loginInputUncheck(WebDriver driver) throws Exception {
         Thread.sleep(3000);

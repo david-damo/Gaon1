@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="256.957256">
-<testcase classname="Access ebay" name="Print title, url" time="122.285928">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="120.031476">
+<testcase classname="Access ebay" name="Print title, url" time="16.368136">
 <system-out><![CDATA[When I open ebay website....................................................passed
 Then I validate title and URL...............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Access ebay" name="User will login" time="111.402477">
+<testcase classname="Access ebay" name="User will login" time="82.538114">
 <system-out><![CDATA[When I check my link........................................................passed
 When I click My eBay........................................................passed
 Then I enter username and password..........................................passed
@@ -12,7 +12,7 @@ Then I will uncheck Stay signed in..........................................pass
 Then I will click on Sign in button.........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Access seleniumframework.com website" name="User will logout from eBay" time="23.268851">
+<testcase classname="Access seleniumframework.com website" name="User will logout from eBay" time="21.125226">
 <system-out><![CDATA[When I will click Hi Username dropdown......................................passed
 Then I click to be deleted..................................................passed
 Then I click logout link....................................................passed
