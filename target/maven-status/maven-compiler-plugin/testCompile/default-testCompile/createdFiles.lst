@@ -1,4 +1,4 @@
-com\cucumber\automation\selenium\HostProperties.class
 com\cucumber\automation\stefdefs\Hooks.class
 com\cucumber\automation\stefdefs\RunCukeTest.class
+com\cucumber\automation\selenium\HostProperties.class
 com\cucumber\automation\stefdefs\ProjectStepDefs.class

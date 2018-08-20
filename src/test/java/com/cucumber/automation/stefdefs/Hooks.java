@@ -53,7 +53,7 @@ public class Hooks {
     }
     public void setUp() throws InterruptedException{
         URL resource=Object.class.getResource("/IEDriverServer.exe");
-        System.out.println(resource.toString());
+        //System.out.println(resource.toString());
         File file=new File(resource.getPath());
         System.setProperty("webdriver.ie.driver", file.getPath());
         DesiredCapabilities cap=DesiredCapabilities.internetExplorer();
