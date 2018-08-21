@@ -1,5 +1,5 @@
 modules\homePageSignIn.class
+pages\SignOutPageEbay.class
 pages\BaseClass.class
 modules\homePageSignOut.class
 pages\HomePageEbay.class
-pages\SignOutPageEbay.class

@@ -8,6 +8,7 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
@@ -32,11 +33,11 @@ public class Hooks {
         if (!initialized){
             initialized = true;
             //driver = new FirefoxDriver();
-            setUp();
+            //setUp();
             driver.manage().deleteAllCookies();
         }
-        //driver=new FirefoxDriver();
-        //driver.manage().deleteAllCookies();
+        driver=new FirefoxDriver();
+        driver.manage().deleteAllCookies();
     }
     @After
     public void embedScreenShotsAndCloseBrowser(Scenario scenario ){
