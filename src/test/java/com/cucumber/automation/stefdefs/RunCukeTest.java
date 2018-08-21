@@ -19,8 +19,8 @@ import cucumber.api.junit.Cucumber;
                 "html:target/cucumber",
         },*/
         plugin = {"pretty", "html:src/target/cucumber-html-report",
-                "json:src/target/cucumber.json",
-                "junit:src/target/cucumber.xml"},
+                "json:target/cucumber.json",
+                "junit:target/cucumber.xml"},
         tags = {}
 
 )
