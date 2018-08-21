@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e7191a9-6fb0-4eed-9b3f-098126cfcc8f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/algocentral-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/Scenario_ Print title, url.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenario_ Print title, url.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Errors/snapTest" afterPath="$PROJECT_DIR$/Errors/snapTest" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/modules/homePageSignIn.class" afterPath="$PROJECT_DIR$/target/classes/modules/homePageSignIn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/modules/homePageSignOut.class" afterPath="$PROJECT_DIR$/target/classes/modules/homePageSignOut.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/cucumber/automation/selenium/HostProperties.class" afterPath="$PROJECT_DIR$/target/test-classes/com/cucumber/automation/selenium/HostProperties.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/cucumber/automation/stefdefs/Hooks.class" afterPath="$PROJECT_DIR$/target/test-classes/com/cucumber/automation/stefdefs/Hooks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/cucumber/automation/stefdefs/ProjectStepDefs.class" afterPath="$PROJECT_DIR$/target/test-classes/com/cucumber/automation/stefdefs/ProjectStepDefs.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/target/cucumber-html-report/report.js" afterPath="$PROJECT_DIR$/src/target/cucumber-html-report/report.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/target/cucumber.json" afterPath="$PROJECT_DIR$/src/target/cucumber.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/target/cucumber.xml" afterPath="$PROJECT_DIR$/src/target/cucumber.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/cucumber/automation/stefdefs/Hooks.java" afterPath="$PROJECT_DIR$/src/test/java/com/cucumber/automation/stefdefs/Hooks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/Scenario_ User will logout from eBay.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/Scenario_ User will logout from eBay.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenario_ User will logout from eBay.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenario_ User will logout from eBay.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,8 +44,8 @@
       <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cucumber/automation/stefdefs/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -841,8 +823,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cucumber/automation/stefdefs/Hooks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        <state relative-caret-position="323">
+          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
