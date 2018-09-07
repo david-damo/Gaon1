@@ -33,10 +33,10 @@ public class Hooks {
         if (!initialized){
             initialized = true;
             //driver = new FirefoxDriver();
-            setUp();
+            //setUp();
             driver.manage().deleteAllCookies();
         }
-        //driver=new FirefoxDriver();
+        driver=new FirefoxDriver();
         //driver.manage().deleteAllCookies();
     }
     @After
