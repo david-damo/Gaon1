@@ -32,8 +32,8 @@ public class Hooks {
         logger.info("Deleting cookies from browser and launching it.");
         if (!initialized){
             initialized = true;
-            driver = new FirefoxDriver();
-            //setUp();
+            //driver = new FirefoxDriver();
+            setUp();
             driver.manage().deleteAllCookies();
         }
         //driver=new FirefoxDriver();
